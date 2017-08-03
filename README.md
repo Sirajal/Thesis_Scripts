@@ -1,2 +1,2 @@
 # Thesis_Scripts
-Scripts used during MSc Biomedical Genomics project hibiobj bo o
+Scripts used during MSc Biomedical Genomics project.
